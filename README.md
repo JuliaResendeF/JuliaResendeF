@@ -20,9 +20,9 @@
 <p align="center">
     📫 How to reach me <strong><em>juliaresende270@gmail.com</strong></em>
 </p>
-
-<h3 align="center"> Brazilian 
+<h3 align="center">
      <img src="https://raw.githubusercontent.com/yammadev/flag-icons/master/png/BR%402x.png" alt="Face with Spiral Eyes" width="25" height="20" />
+      Brazilian 
      </h3>
 
 <h3 align="center">Languages and Tools:</h3>
