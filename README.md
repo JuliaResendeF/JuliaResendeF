@@ -1,7 +1,14 @@
-<h1 align="center">Hi 👋, I'm Julia Resende</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Julia+Resende">
+  </a>
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juliaresendef&label=Profile%20views&color=0e75b6&style=flat" alt="juliaresendef" /> </p>
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=A+passionate+Python+developer;2+Years+Of+Coding" /></a>
+</p>
 
 - 🌱 I’m currently learning **C#,SQL, Data Science, Cloud and Oracle Database**
 
