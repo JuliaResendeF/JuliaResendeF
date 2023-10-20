@@ -37,6 +37,18 @@
 <a href="https://linkedin.com/in/julia resende fernandes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julia resende fernandes" height="30" width="40" /></a>
 </p>
 
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" alt="Face with Spiral Eyes" width="100" height="100" />
+</p>
 
-
-
+<p align="center">
+   Profile Icon by Tonisk
+</p>
+<h2 align="center" ></h2>
+<h3 align="center">Code Cycle</h3>
+<p align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" alt="Face with Spiral Eyes" width="100" height="100" />
+       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Exhaling.png" alt="Face Exhaling" width="100" height="100" />
+     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" alt="Astonished Face" width="100" height="100" />
+</p>
+      
